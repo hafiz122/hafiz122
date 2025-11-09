@@ -1,4 +1,7 @@
-hi i'm hafiz
+hi i'm hafiz. currently studying. started coding at around 9 to 13 and had to stop because my laptop couldn't keep up with the updates and all. 
+personally i think that AI has taken over what i do and what i used to do for fun, it just ruins everything, 
+now everybody uses AI to code and take credit for whatever reason.
+i'm studying statistics which is largely data based! and just a little bit math-based.
 
 <!---
 hafiz122/hafiz122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
