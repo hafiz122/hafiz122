@@ -1,31 +1,35 @@
 # Muhammad Hafiz bin Ismail
 
 **Statistics (Diploma) graduate** focused on forecasting and practical data work.  
-I like building simple, clear projects and writing neat reports that explain *methods, results, and limitations* properly.
+I build simple projects, write neat reports, and improve my code structure over time.
 
-- 📍 Malaysia  
-- ✉️ budakhafiz@gmail.com  
+- 🌐 Website: https://aremath.com  
+- ✉️ Email: muhammadhafiz0150@gmail.com
 - 🔗 GitHub: https://github.com/hafiz122  
-- 🗣️ Languages: **Malay (Native)**, **English (Fluent)**
+- 🗣️ Languages: **Malay (Native)**, **English (Fluent)**  
+- 📍 Malaysia
 
 ---
 
 ## What I’m focused on
 - 📈 Time series forecasting (ARIMA)
-- 🧹 Clean data workflows (tidy structure, reproducible steps)
+- 🧹 Clean data workflows and reproducible steps
 - 📝 Clear reporting (plots + explanations that make sense)
 
 ---
 
-## Featured Projects
+## Featured
+### 🌐 aremath.com
+A personal website where I publish and organise my work.  
+➡️ Live: https://aremath.com  
+➡️ Source repo: *(put your website repo link here)*
+
 ### 📌 Annual Births Forecasting (ARIMA)
 Forecasted annual births using time series methods (ARIMA), checked diagnostics, and wrote a clear report.  
-➡️ **Repo:** *(add your link here once you create it)*  
-➡️ **Highlights:** forecasting workflow, diagnostic checks, final write-up
 
 ### 🧪 Portfolio & Experiments
-A collection of personal projects and small experiments (including early Java programs and newer work as I improve structure and documentation).  
-➡️ **Repo(s):** *(link your portfolio repo / experiments repo here)*
+Personal projects and small experiments, including early Java programs and newer work as I improve structure and documentation.  
+➡️ Repo(s): *(add link here)*
 
 ---
 
@@ -36,5 +40,5 @@ A collection of personal projects and small experiments (including early Java pr
 
 ---
 
-## Notes
-Some older repositories contain early learning code (including Java) — I keep them as part of my learning journey, while my newer work is organised more professionally.
+## Note
+Some older repositories contain early learning code (including Java). My newer work is organised more professionally, with clearer structure and documentation.
