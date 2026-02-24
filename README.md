@@ -20,7 +20,7 @@ I build simple projects, write neat reports, and improve my code structure over 
 
 ## Featured
 ### 🌐 aremath.com
-A personal website where I publish and organise my work.  
+A website I developed to help SPM students learn Additional Mathematics better.  
 ➡️ Live: https://aremath.com
 
 ### 📌 Annual Births Forecasting (ARIMA)
