@@ -21,15 +21,13 @@ I build simple projects, write neat reports, and improve my code structure over 
 ## Featured
 ### 🌐 aremath.com
 A personal website where I publish and organise my work.  
-➡️ Live: https://aremath.com  
-➡️ Source repo: *(put your website repo link here)*
+➡️ Live: https://aremath.com
 
 ### 📌 Annual Births Forecasting (ARIMA)
 Forecasted annual births using time series methods (ARIMA), checked diagnostics, and wrote a clear report.  
 
 ### 🧪 Portfolio & Experiments
 Personal projects and small experiments, including early Java programs and newer work as I improve structure and documentation.  
-➡️ Repo(s): *(add link here)*
 
 ---
 
