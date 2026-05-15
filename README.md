@@ -2,6 +2,8 @@
   <img src="banner.png" alt="Muhammad Hafiz - GitHub Profile Banner" width="100%" />
 </div>
 
+<br />
+
 <!-- Animated typing intro -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58D68D&center=true&vCenter=true&width=500&lines=Hey!+I'm+Hafiz+%F0%9F%91%8B;Statistician+%7C+Developer+%7C+Builder;Minecraft+Plugin+Dev+%E2%9A%94%EF%B8%8F;Time+Series+Forecaster+%F0%9F%93%88;From+Malaysia+%F0%9F%87%B2%F0%9F%87%BE;Always+learning...+%E2%9C%A8" alt="Typing Animation" />
@@ -27,37 +29,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> About Me
 </h2>
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
-I'm **Muhammad Hafiz bin Ismail**, a **Statistics (Diploma) graduate** from Malaysia passionate about turning data into actionable insights and building things that help people.
+I'm **Muhammad Hafiz bin Ismail**, a **Statistics (Diploma) graduate** from Malaysia 🇲🇾 passionate about turning data into actionable insights and building things that help people.
 
-**What I do:**
-- Time series forecasting & statistical analysis (ARIMA, descriptive stats, inference)
-- Building **Minecraft plugins** with Java (Bukkit/Spigot/Paper)
-- Developing web tools that make learning easier — check out [**aremath.com**](https://aremath.com) ✨
-- Clean, documented, reproducible data workflows in **R** and **Python**
+**What I do:** time series forecasting & statistical analysis (ARIMA, descriptive stats, inference) / building **Minecraft plugins** with Java (Bukkit/Spigot/Paper) / developing web tools that make learning easier — check out [**aremath.com**](https://aremath.com) ✨ / clean, documented, reproducible data workflows in **R** and **Python**
 
-**Currently focused on:**
-- Sharpening my forecasting & data storytelling skills
-- Leveling up my code architecture (from 2018 Java kid to clean, professional repos)
-- Building tools that actually help Malaysian students
+**Currently focused on:** sharpening my forecasting & data storytelling skills / leveling up my code architecture (from 2018 Java kid to clean, professional repos) / building tools that actually help Malaysian students
 
-</td>
-<td width="45%" align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=hafiz122&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58D68D&icon_color=FF6B6B&text_color=c9d1d9&ring_color=58D68D" alt="Hafiz's GitHub Stats" width="100%" />
-
-<br /><br />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz122&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58D68D&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
@@ -97,9 +77,7 @@ I'm **Muhammad Hafiz bin Ismail**, a **Statistics (Diploma) graduate** from Mala
 <br />
 
 <!-- Featured Projects -->
-<h2 align="center">
-  Featured Projects
-</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
@@ -180,7 +158,7 @@ I'm **Muhammad Hafiz bin Ismail**, a **Statistics (Diploma) graduate** from Mala
 
 <div align="center">
 
-I started coding Minecraft plugins when I was 13 and it's still something I love doing. Here's a collection of my Spigot/Bukkit work:
+I started coding Minecraft plugins when I was **9 years old** and it's still something I love doing. Here's a collection of my Spigot/Bukkit work:
 
 <br /><br />
 
@@ -193,13 +171,13 @@ I started coding Minecraft plugins when I was 13 and it's still something I love
 
 <br />
 
-<i>My older repos (2018 era) show my learning journey — the ideas and structure were solid for a 13-year-old! My newer work is much more polished. Check out the recent stuff first.</i>
+<i>My older repos (2018 era) show my learning journey — the ideas and structure were solid for a 9-year-old! My newer work is much more polished. Check out the recent stuff first.</i>
 
 </div>
 
 <br />
 
-<!-- Activity Graph -->
+<!-- Contribution Graph -->
 <h2 align="center">Contribution Activity</h2>
 
 <div align="center">
