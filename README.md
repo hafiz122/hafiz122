@@ -31,7 +31,7 @@
 
 <div align="center">
 
-I'm **Muhammad Hafiz bin Ismail**, a **Statistics (Diploma) graduate** from Malaysia 🇲🇾 passionate about turning data into actionable insights and building things that help people.
+I'm **Muhammad Hafiz bin Ismail**, a **Statistics graduate** from Malaysia 🇲🇾 passionate about turning data into actionable insights and building things that help people.
 
 **What I do:** time series forecasting & statistical analysis (ARIMA, descriptive stats, inference) / building **Minecraft plugins** with Java (Bukkit/Spigot/Paper) / developing web tools that make learning easier, check out [**aremath.com**](https://aremath.com) ✨ / clean, documented, reproducible data workflows in **R** and **Python**
 
