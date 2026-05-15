@@ -33,7 +33,7 @@
 
 I'm **Muhammad Hafiz bin Ismail**, a **Statistics (Diploma) graduate** from Malaysia 🇲🇾 passionate about turning data into actionable insights and building things that help people.
 
-**What I do:** time series forecasting & statistical analysis (ARIMA, descriptive stats, inference) / building **Minecraft plugins** with Java (Bukkit/Spigot/Paper) / developing web tools that make learning easier — check out [**aremath.com**](https://aremath.com) ✨ / clean, documented, reproducible data workflows in **R** and **Python**
+**What I do:** time series forecasting & statistical analysis (ARIMA, descriptive stats, inference) / building **Minecraft plugins** with Java (Bukkit/Spigot/Paper) / developing web tools that make learning easier, check out [**aremath.com**](https://aremath.com) ✨ / clean, documented, reproducible data workflows in **R** and **Python**
 
 **Currently focused on:** sharpening my forecasting & data storytelling skills / leveling up my code architecture (from 2018 Java kid to clean, professional repos) / building tools that actually help Malaysian students
 
@@ -171,7 +171,7 @@ I started coding Minecraft plugins when I was **9 years old** and it's still som
 
 <br />
 
-<i>My older repos (2018 era) show my learning journey — the ideas and structure were solid for a 9-year-old! My newer work is much more polished. Check out the recent stuff first.</i>
+<i>My older repos (2018 era) show my learning journey. The ideas and structure were solid for a 9-year-old! My newer work is much more polished. Check out the recent stuff first.</i>
 
 </div>
 
