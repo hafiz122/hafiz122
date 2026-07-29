@@ -6,7 +6,6 @@
 
 I make useful, approachable software, from data projects and learning tools to desktop apps and Minecraft plugins.
 
-[![Website](https://img.shields.io/badge/aremath.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://aremath.com)
 [![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadhafiz0150@gmail.com)
 
 </div>
@@ -20,7 +19,7 @@ These days I’m building desktop and web experiences, improving my software arc
 ## What I’m working on
 
 - [**Budu**](https://github.com/hafiz122/budu): an open-source macOS launcher for playing Windows Steam games on Apple Silicon.
-- [**aremath.com**](https://aremath.com): interactive learning tools for Malaysian SPM Additional Mathematics students.
+- Learning tools for Malaysian SPM Additional Mathematics students.
 - Better data storytelling, time-series forecasting, and maintainable software design.
 
 ## Selected work
