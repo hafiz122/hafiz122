@@ -18,14 +18,17 @@ These days I’m building desktop and web experiences, improving my software arc
 
 ## What I’m working on
 
+- [**russelli.**](https://github.com/hafiz122/russelli): paper-first algebra practice for college beginners. [Try it in your browser](https://hafiz122.github.io/russelli/).
+- [**LocalStat**](https://github.com/hafiz122/localstat): a native macOS editor for a local, limited SAS-language runtime. [See the public alpha](https://github.com/hafiz122/localstat/releases).
 - [**Budu**](https://github.com/hafiz122/budu): an open-source macOS launcher for playing Windows Steam games on Apple Silicon.
-- Learning tools for Malaysian SPM Additional Mathematics students.
 - Better data storytelling, time-series forecasting, and maintainable software design.
 
 ## Selected work
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| [russelli.](https://github.com/hafiz122/russelli) · [Live site](https://hafiz122.github.io/russelli/) | Paper-first algebra practice with final-answer checking, hints, and worked solutions. | TypeScript, React, Vite |
+| [LocalStat](https://github.com/hafiz122/localstat) · [Alpha release](https://github.com/hafiz122/localstat/releases) | A native macOS editor for a local OpenSAS-derived runtime, with formatted tables and PDF reports. | Swift, AppKit, Zig |
 | [Budu](https://github.com/hafiz122/budu) | A native macOS launcher for Windows Steam games on Apple Silicon. | Rust, Tauri, React |
 | [Waktu Solat](https://github.com/hafiz122/waktu-solat) | A straightforward prayer-time checker for Malaysia. | HTML, JavaScript |
 | [Coffee](https://github.com/hafiz122/Coffee) | A Minecraft server plugin, and part of the Java projects that started my programming journey. | Java, Bukkit/Spigot |
